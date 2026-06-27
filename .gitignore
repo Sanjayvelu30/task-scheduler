@@ -1,0 +1,10 @@
+# Local secrets/environment files
+.env
+
+# Built binaries
+server
+
+# Go workspace and test files
+*.exe
+*.test
+*.out
